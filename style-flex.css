@@ -1,0 +1,41 @@
+.center-box {
+    background-color:navy;
+    display: flex;
+    width: 950px;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+.center-item {
+    width: 100px;
+    height: 100px;
+    background-color: palegoldenrod;
+}
+.menu {
+    background-color: rgb(143, 165, 226);
+    width: 950px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul {
+    list-style: none;
+    display: flex;
+    color: white;
+    font-size: 12px;
+}
+a {
+    color: white;
+    padding: 30px;
+    text-decoration: none;
+}
+img {
+    height: 30pt;
+    padding: 10px;
+}
+h1 {
+    color: white;
+    font-size: 12px;
+    padding: 30px;
+}
